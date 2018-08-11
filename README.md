@@ -1,4 +1,4 @@
-# Yak_shaving
+# [Yak_shaving](https://en.wiktionary.org/wiki/yak_shaving)
 Tools / hacks / scripts / tips for speedy coding. This is typically what I would setup on a new Macbook.
 
 - Chrome extensions
