@@ -11,7 +11,7 @@ Tools / hacks / scripts / tips for speedy coding. This is typically what I would
     - [iTerm](https://www.iterm2.com/) - terminal with slightly more options
     - [Alfred](https://www.alfredapp.com/) - search the internet from any context, directly, without it trying to find a local file by that name first.
     - [Skitch](https://evernote.com/products/skitch) - easily annotated screenshots
-    - [VSCode](https://code.visualstudio.com/) - coding IDE of choice; settings synced with [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension
+    - [VSCode](https://code.visualstudio.com/) - coding IDE of choice; [settings](./vscode-extensions.md) synced with [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension
     - [Red Hot Timer](https://itunes.apple.com/us/app/red-hot-timer/id929960914?mt=12) - pomodoro timers on demand from the menu bar or via keyboard shortcuts
     - [Spotmenu](https://github.com/kmikiy/SpotMenu) - show the current playing song from spotify in the MacOS menu bar
     - [ImageOptim](https://imageoptim.com/mac) - resize/compress/reformat images
