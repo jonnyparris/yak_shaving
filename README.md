@@ -12,10 +12,18 @@ Tools / hacks / scripts / tips for speedy coding. This is typically what I would
     - [Alfred](https://www.alfredapp.com/) - search the internet from any context, directly, without it trying to find a local file by that name first.
     - [Skitch](https://evernote.com/products/skitch) - easily annotated screenshots
     - [VSCode](https://code.visualstudio.com/) - coding IDE of choice; settings synced with [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension
+    - [Red Hot Timer](https://itunes.apple.com/us/app/red-hot-timer/id929960914?mt=12) - pomodoro timers on demand from the menu bar or via keyboard shortcuts
+    - [Spotmenu](https://github.com/kmikiy/SpotMenu) - show the current playing song from spotify in the MacOS menu bar
+    - [ImageOptim](https://imageoptim.com/mac) - resize/compress/reformat images
+    - [Gyazo Gif](https://gyazo.com) - create & share short UI screencapture gifs easily.
 
 - Misc
     - [Bash dotfiles & aliases](https://github.com/jonnyparris/dotfiles) - better terminal experience
     - [Diff Checker](https://www.diffchecker.com/diff) - automated spot-the-difference between files
+    - [QL markdown](git@github.com:jonnyparris/yak_shaving.git) - enable quicklook for markdown files in Mac Finder
+    - [QL json](http://www.sagtau.com/quicklookjson.html) - enable quicklook for json files in Mac Finder
+    - [...More Quicklook plugins](https://github.com/sindresorhus/quick-look-plugins)
+
 
 - Newsletters
     - [Frontend Focus](https://frontendfoc.us/)
