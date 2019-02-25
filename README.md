@@ -20,7 +20,7 @@ Tools / hacks / scripts / tips for speedy coding. This is typically what I would
 - Misc
     - [Bash dotfiles & aliases](https://github.com/jonnyparris/dotfiles) - better terminal experience
     - [Diff Checker](https://www.diffchecker.com/diff) - automated spot-the-difference between files
-    - [QL markdown](git@github.com:jonnyparris/yak_shaving.git) - enable quicklook for markdown files in Mac Finder
+    - [QL markdown](https://github.com/toland/qlmarkdown) - enable quicklook for markdown files in Mac Finder
     - [QL json](http://www.sagtau.com/quicklookjson.html) - enable quicklook for json files in Mac Finder
     - [...More Quicklook plugins](https://github.com/sindresorhus/quick-look-plugins)
 
