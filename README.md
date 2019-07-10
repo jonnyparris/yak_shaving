@@ -6,6 +6,9 @@ Tools / hacks / scripts / tips for speedy coding. This is typically what I would
     - [Delight chrome extension](https://chrome.google.com/webstore/detail/chrome-delight/hehbgjdnbibkndghdlilefececadokpb/reviews?hl=en) for regular joy injections.
 
 - Apps
+    - [Homebrew](https://brew.sh/) - install apps from terminal without having to faff with downloading, dragging to apps folder, ejecting .dmgs and then deleting install packages. E.g.:
+
+  >`brew cask install spectacle iterm skitch alfred firefox the-unarchiver vlc visual-studio-code spotmenu spotify chrome franz nordvpn docker cheatsheet todoist`
     - [Spectacle](http://spectacleapp.com) - resize and relocate app windows with the keyboard, even with multiple displays.
     - [Clipy App](https://clipy-app.com/) - paste more than just the most recent item copied OR paste from a predefined snippets such as email.
     - [iTerm](https://www.iterm2.com/) - terminal with slightly more options
